@@ -1,9 +1,9 @@
 {
   "name": "marketing-lib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
-  "main": "dist/esm/marketing-lib.js",
-  "module": "dist/esm/marketing-lib.js",
+  "main": "dist/cjs/marketing-lib.js",
+  "module": "dist/cjs/marketing-lib.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
